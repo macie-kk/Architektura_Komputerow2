@@ -1,0 +1,48 @@
+
+Typ obliczen: SIMD
+Ilosc liczb: 2048
+Sredni czas [s]:
+	+ 0.000370
+	- 0.000372
+	* 0.000354
+	/ 0.000351
+
+Typ obliczen: SISD
+Ilosc liczb: 2048
+Sredni czas [s]:
+	+ 0.000263
+	- 0.000259
+	* 0.000249
+	/ 0.000268
+
+Typ obliczen: SIMD
+Ilosc liczb: 4096
+Sredni czas [s]:
+	+ 0.000701
+	- 0.000740
+	* 0.000706
+	/ 0.000716
+
+Typ obliczen: SISD
+Ilosc liczb: 4096
+Sredni czas [s]:
+	+ 0.000516
+	- 0.000509
+	* 0.000515
+	/ 0.000542
+
+Typ obliczen: SIMD
+Ilosc liczb: 8192
+Sredni czas [s]:
+	+ 0.001410
+	- 0.001420
+	* 0.001416
+	/ 0.001418
+
+Typ obliczen: SISD
+Ilosc liczb: 8192
+Sredni czas [s]:
+	+ 0.001027
+	- 0.001144
+	* 0.001066
+	/ 0.001061
